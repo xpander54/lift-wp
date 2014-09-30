@@ -1,0 +1,212 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+
+.tp-caption.astra_white_heading_1 {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 36px;
+	font-family: "Roboto Slab"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+	background-color: transparent;
+	color: #fff;
+	}
+
+.tp-caption.astra_white_heading_2 {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 30px;
+	font-family: "Roboto Slab"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+	background-color: transparent;
+	color: #fff;
+	}
+
+.tp-caption.astra_white_heading_3 {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 24px;
+	font-family: "Roboto Slab"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+	background-color: transparent;
+	color: #fff;
+	}
+
+.tp-caption.astra_white_heading_4 {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 20px;
+	font-family: "Roboto Slab"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+	background-color: transparent;
+	color: #fff;
+	}
+
+.tp-caption.astra_white_small_text {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	font-family: "Open Sans"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+	background-color: transparent;
+	color: #fff;
+	}
+
+.tp-caption.astra_white_medium_text {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 26px;
+	font-family: "Open Sans"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+	background-color: transparent;
+	color: #fff;
+	}
+
+.tp-caption.astra_white_big_text {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+	font-family: "Open Sans"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: 0 1px 0 rgba(0,0,0,0.2);
+	background-color: transparent;
+	color: #fff;
+	}
+
+.tp-caption.astra_dark_heading_1 {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 36px;
+	font-family: "Roboto Slab"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: none;
+	background-color: transparent;
+	color: #333;
+	}
+
+.tp-caption.astra_dark_heading_2 {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 30px;
+	font-family: "Roboto Slab"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: none;
+	background-color: transparent;
+	color: #333;
+	}
+
+.tp-caption.astra_dark_heading_3 {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 24px;
+	font-family: "Roboto Slab"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: none;
+	background-color: transparent;
+	color: #333;
+	}
+
+.tp-caption.astra_dark_heading_4 {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 20px;
+	font-family: "Roboto Slab"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: none;
+	background-color: transparent;
+	color: #333;
+	}
+
+.tp-caption.astra_dark_small_text {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 22px;
+	font-family: "Open Sans"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: none;
+	background-color: transparent;
+	color: #333;
+	}
+
+.tp-caption.astra_dark_medium_text {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 26px;
+	font-family: "Open Sans"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: none;
+	background-color: transparent;
+	color: #333;
+	}
+
+.tp-caption.astra_dark_big_text {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 30px;
+	font-family: "Open Sans"; 
+	padding: 0;
+	margin: 0;
+	border: 0;
+	text-shadow: none;
+	background-color: transparent;
+	color: #333;
+	}
+
+.tp-caption.astra_bg_dark_heading_1 {
+	position: absolute; 
+	font-weight: 400;
+	font-size: 36px;
+	line-height: 36px;
+	font-family: "Roboto Slab"; 
+	padding: 15px 20px;
+	margin: 0;
+	border: 0;
+	text-shadow: none;
+	background-color: rgba(255,255,255,0.5);
+	color: #333;
+	}
